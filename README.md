@@ -234,6 +234,3 @@ If a pretrained simulator checkpoint is not available, prepare or train one befo
 6. Train the DEM super-resolution model with `train.py`.
 7. Evaluate the trained model with `test.py`.
 
-## Citation
-
-If this code is useful for your research, please cite the corresponding paper when bibliographic information becomes available.
