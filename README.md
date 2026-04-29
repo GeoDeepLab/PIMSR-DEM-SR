@@ -2,6 +2,8 @@
 
 PIMSR is a PyTorch implementation of a physics-informed multimodal super-resolution framework for digital elevation model (DEM) reconstruction. The model uses low-resolution DEM input together with co-registered Sentinel-1 VV/VH SAR observations and incidence angle maps to recover high-resolution DEM patches.
 
+![PIMSR model architecture](img/figure1.png)
+
 ## Features
 
 - SAR-guided DEM super-resolution network
